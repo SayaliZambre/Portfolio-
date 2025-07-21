@@ -1721,7 +1721,7 @@ export default function Portfolio() {
                       icon: Linkedin,
                       title: "LinkedIn",
                       subtitle: "Professional network",
-                      href: "https://www.linkedin.com/in/sayali-zambre-a21690242haa ",
+                      href: "https://www.linkedin.com/in/sayali-zambre-a21690242",
                     },
                     {
                       icon: Linkedin,
